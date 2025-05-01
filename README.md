@@ -1,6 +1,6 @@
 ATM Machine – Your Digital Banking Companion
 
-ATM Machine is a modern frontend banking application that simulates the experience of using a real ATM, right from your browser. Designed with a clean and intuitive interface, this app allows users to manage their finances securely and effortlessly.
+ATM Machine project is a frontend banking application that simulates the experience of using a real ATM, right from your browser. Designed with a clean and intuitive interface, this app allows users to manage their finances securely and effortlessly.
 
 Key Features:
 
